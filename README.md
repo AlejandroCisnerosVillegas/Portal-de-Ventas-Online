@@ -1,2 +1,3 @@
-# Portal-de-Ventas-Online
-El Portal de Ventas Online, es un sito web desarrollado con HTML, CSS, JavaScript, PHP y MySQL. Ofrece una experiencia de compra intuitiva y segura, con catálogo de productos detallado, carrito de compras y opciones de registro para usuarios. Comprometidos con la seguridad y la experiencia del usuario.
+# Portal de ventas online
+## _Área: Proyectos_
+El Portal de Ventas Online es una plataforma digital diseñada para ofrecer una experiencia de compra sencilla y segura a los usuarios interesados en adquirir productos electrónicos. Desde audífonos de alta fidelidad hasta pantallas de escritorio para PC y teclados especializados para gaming, nuestra plataforma ofrece una amplia variedad de productos de calidad para satisfacer las necesidades de nuestros clientes.
