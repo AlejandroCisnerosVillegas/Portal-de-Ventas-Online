@@ -26,7 +26,7 @@ El desarrollo del Portal de Ventas Online se basa en tecnologías web modernas, 
 
 En resumen, el Portal de Ventas Online es una solución digital que ofrece una experiencia de compra conveniente y confiable para los entusiastas de la tecnología. Con una amplia selección de productos electrónicos y una plataforma fácil de usar, estamos comprometidos a proporcionar a nuestros clientes una experiencia de compra en línea excepcional.
 
-**Consulta la versión preliminar del proyecto aquí:** [https://portal-de-ventas-online.com](https://www.alejandrovillegas.net/projects/project-04/index.php)
+**Consulta la versión preliminar del proyecto aquí:** [https://portal-de-ventas-online.com](https://www.alejandrovillegas.dev/projects/project-04/index.php)
 
 # 📌 Información del Proyecto
 
@@ -38,7 +38,7 @@ Este proyecto ha sido desarrollado como parte del portafolio de soluciones tecno
 
 - **Fecha de Desarrollo**: 05 de marzo de 2024
 
-- **Portafolio de Proyectos**: [www.alejandrovillegas.net](https://www.alejandrovillegas.net/)
+- **Portafolio de Proyectos**: [www.alejandrovillegas.dev](https://www.alejandrovillegas.dev)
 
 # Guía de Instalación y Configuración del Proyecto
 
